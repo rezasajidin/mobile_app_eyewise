@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1047878625433",
+    "project_id": "eyewise-107f5",
+    "storage_bucket": "eyewise-107f5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047878625433:android:8f8ef6089784ec490db008",
+        "android_client_info": {
+          "package_name": "com.kelompok4.eyewise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKqAiZt1_1D1l9V9BZA2_db9TNJfvp8vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
